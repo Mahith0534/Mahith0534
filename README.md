@@ -96,12 +96,12 @@ More on my [repositories tab](https://github.com/Mahith0534?tab=repositories).
 - 🧩 **LeetCode** peak rating 1710, 115+ solved
 - 🐍 IIT technical training in Python and Machine Learning
 
-## 📊 GitHub stats
+## 🔭 Currently building
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=Mahith0534&show_icons=true&theme=tokyonight&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahith0534&layout=compact&theme=tokyonight&hide_border=true)
-
+- 🤖 **Agentic AI workflows** that plan, execute and self-correct, using a multi-stage ReAct loop.
+- 📈 **An analytics agent** that answers business questions in plain language, with the AI limited to guarded, read-only tools.
+- 🧪 **A data-driven test automation framework** that runs from spreadsheets with no code per test.
+- 🌱 **Learning in public.** Building an LLM tokenizer from first principles in `token-to-agent`.
 
 
 ## 📫 Let's connect
