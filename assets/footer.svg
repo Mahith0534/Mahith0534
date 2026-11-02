@@ -16,7 +16,7 @@
   <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="68" cy="17" r="6" fill="#27c93f"/>
-  <text x="450" y="22" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#6b8299">mahith@hyderabad: ~</text>
+  <text x="450" y="22" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#6b8299">mahith@prod: ~</text>
 
   <g font-family="Consolas, 'Courier New', monospace" font-size="16">
     <!-- row 1 -->
