@@ -36,9 +36,7 @@ I'm a software engineer from Hyderabad, India. I work across AI, cybersecurity a
 
 ## 💼 Professional work
 
-### Independent Software Engineer (Freelance) · Varkasa Inc, California (remote)
-
-*Aug 2025 to present*
+### Software Engineer Intern · Varkasa Inc
 
 - **CI/CD:** built a Jenkins pipeline that replaced a 1-day build-and-test cycle run by 5 engineers with a 15-minute automated one.
 - **Releases:** wrote GitHub Actions workflows that package cross-platform PyInstaller builds. Release packaging dropped from 10 minutes to under 60 seconds, with no manual deployment errors.
@@ -64,9 +62,8 @@ I'm a software engineer from Hyderabad, India. I work across AI, cybersecurity a
 - Delivered as standalone `.exe` files with a Windows startup setup script.
 - *Python, PyQt5, SQLite, PyInstaller*
 
-### Android Application Developer Intern · No-Veg
+### Android Application Developer Intern · NovegRapix Pvt Ltd
 
-*10 Apr 2025 to 4 Jun 2025*
 
 - Built **NoVegDelivery**, the native Android app for delivery partners on the No-Veg food delivery platform.
 - Implemented phone-OTP sign-in, multi-step rider onboarding with form validation, and a live order flow (online/offline toggle, accept/reject cards with a sound alert).
